@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: "onlineBanking",
   description: "Online Paymnet Website ",  
   icons: {
-    icon: "../public/assets/logo.svg",
+    icon: "/icons/logo.svg",
   },
 };
 
